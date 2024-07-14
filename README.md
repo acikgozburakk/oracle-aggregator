@@ -45,4 +45,9 @@ Ensure you have the following installed:
 
 ```bash npm run dev ```
 
-It can be visited live at [here](https://oracle-aggregator-lake.vercel.app/)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+<h1><b>It can be visited live at </b></h1> --> [here](https://oracle-aggregator-lake.vercel.app/)
