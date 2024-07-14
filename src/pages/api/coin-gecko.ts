@@ -1,6 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 import axios from 'axios';
-import feedInfos from "./pricesFeedInfos.js"; 
+import feedInfos from "./pricesFeedInfos"; 
 
 const getCoinGeckoPrice = async () => {
   try {

@@ -1,6 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 import { PriceServiceConnection } from "@pythnetwork/price-service-client";
-import feedInfos from "./pricesFeedInfos.js"; 
+import feedInfos from "./pricesFeedInfos"; 
 
 const HERMES_URL = "https://hermes.pyth.network/";
 const priceServiceConnection = new PriceServiceConnection(HERMES_URL, {});
