@@ -1,28 +1,31 @@
-## Oracle Aggregator
+<h1>Oracle Aggregator</h1> 
 
 
 
-##Overview
+<h2>Overview</h2> 
 
 The Oracle Aggregator is a decentralized application built on the Solana blockchain. It aggregates data from multiple oracles to provide a reliable and accurate data feed for various decentralized applications (dApps). This project leverages the power of Solana's high throughput and low transaction costs to deliver timely and secure data.
 
-##Features
+<h2>Features</h2>
+
 Data Aggregation: Combines data from multiple oracle sources.
 Decentralized: Built on the Solana blockchain for enhanced security and reliability.
 High Performance: Utilizes Solana's high transaction throughput.
 Accurate Data Feeds: Provides reliable data for dApps.
 
-##Getting Started
+
+<h2>Getting Started</h2>
 
 Ensure you have the following installed:
 
-*Node.js
-*npm
+*Node.js <br/>
+*npm<br/>
 *Solana CLI
 
-##Installation
+<h2>Installation</h2>
 
 1.Clone Repository
+
 ```bash git clone https://github.com/acikgozburakk/oracle-aggregator.git ```
 
 2.Install dependencies
@@ -33,4 +36,4 @@ Ensure you have the following installed:
 
 ```bash npm run dev ```
 
-###It can be visited live at [here](https://oracle-aggregator-lake.vercel.app/)
+It can be visited live at [here](https://oracle-aggregator-lake.vercel.app/)
