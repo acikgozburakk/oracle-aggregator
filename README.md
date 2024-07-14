@@ -8,10 +8,19 @@ The Oracle Aggregator is a decentralized application built on the Solana blockch
 
 <h2>Features</h2>
 
-Data Aggregation: Combines data from multiple oracle sources.
-Decentralized: Built on the Solana blockchain for enhanced security and reliability.
-High Performance: Utilizes Solana's high transaction throughput.
-Accurate Data Feeds: Provides reliable data for dApps.
+<ul>
+  <li>Data Aggregation: Combines data from multiple oracle sources.</li>
+  <li>Decentralized: Built on the Solana blockchain for enhanced security and reliability.</li>
+  <li>High Performance: Utilizes Solana's high transaction throughput.</li>
+  <li>Accurate Data Feeds: Provides reliable data for dApps.</li>
+</ul>
+
+<h2>Tech Stack</h2>
+
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Pyth Network SDK](https://docs.pyth.network/)
 
 
 <h2>Getting Started</h2>
