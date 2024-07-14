@@ -13,6 +13,21 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors:{
+        rangoonGreen:"#161c19",
+        darkJungleGreen:"#1e2523",
+        mountainMeadow:"#18b784",
+        brightGrey:"#374151"
+      },
+      animation: {
+        spin: 'spin 1s linear infinite',
+      },
+      keyframes: {
+        spin: {
+          '0%': { transform: 'rotate(0deg)' },
+          '100%': { transform: 'rotate(360deg)' },
+        },
+      },
     },
   },
   plugins: [],

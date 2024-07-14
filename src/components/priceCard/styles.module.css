@@ -1,0 +1,15 @@
+.wrapper {
+  @apply relative bg-darkJungleGreen text-white text-sm py-2 pr-2  border border-darkJungleGreen rounded-full hover:opacity-70 flex  items-center gap-4 shadow-xl hover:scale-110 transition duration-300;
+}
+
+.logo {
+  @apply rounded-full;
+}
+
+.name {
+  @apply font-bold underline underline-offset-4;
+}
+
+.price {
+  @apply text-sm;
+}

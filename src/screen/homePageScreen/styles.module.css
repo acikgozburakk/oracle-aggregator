@@ -1,0 +1,7 @@
+.wrapper {
+  @apply w-full flex;
+}
+
+.priceList {
+  @apply w-full  flex justify-center mt-32;
+}

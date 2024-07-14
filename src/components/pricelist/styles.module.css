@@ -1,0 +1,7 @@
+.wrapper {
+  @apply flex flex-col gap-4 min-w-[300px];
+}
+
+.title {
+  @apply text-center text-white bg-mountainMeadow rounded-lg h-6 font-bold;
+}
